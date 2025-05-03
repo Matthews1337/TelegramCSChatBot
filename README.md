@@ -25,13 +25,15 @@ Um bot de Telegram que integra informações do HLTV.org para fãs de Counter-St
 
 1. Clone o repositório:
 
-```bash
+```
 git clone https://github.com/Matthews1337/TelegramCSChatBot.git
+```
 cd TelegramCSChatBot
 
 2. Instalação dos requisitos
+```
 pip install -r requirements.txt
-
+```
 ## ⚙️ Utilização
 
 1. Crie um novo bot no [BotFather](https://t.me/BotFather) no Telegram.
@@ -40,5 +42,4 @@ pip install -r requirements.txt
 4. Execute o bot com:
 ```bash
 python main.py
-
 ```
